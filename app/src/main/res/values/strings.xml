@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Some Music!</string>
+    <string name="button1">PlayandPause</string>
+    <string name="button2">Last</string>
+    <string name="button3">Next</string>
+    <string name="button4">SortedandSingleandRandom</string>
+</resources>
